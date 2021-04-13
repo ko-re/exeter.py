@@ -1,0 +1,10 @@
+{
+    "token": "TOKEN",
+    "password": "PASSWORD",
+    "prefix": ">",
+
+    "nitro_sniper": true, 
+    "giveaway_sniper": true,
+    "slotbot_sniper": false,
+    "privnote_sniper": false
+}
